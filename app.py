@@ -15,7 +15,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Kranthi Task kranthi</title>
+        <title>Kranthi Task kranthi111</title>
         <style>
             body {
                 font-family: Arial;
