@@ -15,7 +15,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Kranthi Task Manager</title>
+        <title>Kranthi Task kranthi</title>
         <style>
             body {
                 font-family: Arial;
