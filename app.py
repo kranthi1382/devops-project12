@@ -6,6 +6,7 @@ tasks = [
     {"id": 1, "title": "Learn Docker", "completed": True},
     {"id": 2, "title": "Build Jenkins Pipeline", "completed": False},
     {"id": 3, "title": "Deploy to AWS EC2", "completed": False}
+    {"id": 3, "title": "Deploy to docker", "completed": False}
 ]
 
 
@@ -15,7 +16,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Kranthi Task kranthi111</title>
+        <title>DevOps Task Manager</title>
         <style>
             body {
                 font-family: Arial;
