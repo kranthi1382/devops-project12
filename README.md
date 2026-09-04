@@ -1,7 +1,7 @@
 # Python Application CI/CD Pipeline with Jenkins, Docker & AWS EC2
 
 A beginner-friendly **CI/CD project** that demonstrates how to automatically build and deploy a Python Flask application using **GitHub, Jenkins, Docker, and AWS EC2**.
-
+ 
 ## 🚀 Project Overview
 
 This project implements an automated CI/CD pipeline where a developer pushes code to GitHub, which triggers Jenkins through a GitHub webhook.
